@@ -1,0 +1,7 @@
+The Moving Flytrap, or the Movens muscipula, is a walking species that resides on certain planets with tropical temperatures. While it uses photosynthesis as a way of sustaining energy, photosynthesis is only a backup supply. Its main source of energy is feeding off other species on these planets, including plants and animals.
+
+It is one of the most dangerous species of plants in the universe, being able to grow to the size of whatever they ate, meaning some species of Movens muscipula could actually grow the become the size of whatever planet they reside in. However, once they reach this size, they die out as they are unable to sustain life in the void of space.
+
+Unfortunately, researchers from the Ingvis Empire had discovered that some Movens muscipula have developed mutations that allow them to continue surviving in the void of space. These plants gain their energy mostly through photosynthesis with nearby stars, and are considered to be traveling planets. They are also intelligent enough to understand that other species may land on planets, and would lie dormant and disguise themselves as a planet before eating any species that tries to land on it. 
+
+These plants are also able to reproduce by vomiting the remains of whatever they ate back out. These remains are encapsulated by a gel that feeds off of the item until it has enough energy to fully bloom into the plant. 

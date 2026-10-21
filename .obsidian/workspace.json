@@ -1,0 +1,309 @@
+{
+  "main": {
+    "id": "422285dd51006823",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a1660a67c746fd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dce799dd228bf3d",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Eternal War.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Eternal War"
+            }
+          },
+          {
+            "id": "e6074f6a80ece481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Military/Equipment Supplies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Equipment Supplies"
+            }
+          },
+          {
+            "id": "669146cd9909a076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Haud Empire/1. Main Page.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Main Page"
+            }
+          },
+          {
+            "id": "a7c52c9d8344d650",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Notable Regions/Novico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Novico"
+            }
+          },
+          {
+            "id": "56c4af955763487d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Notable Regions/Novico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Novico"
+            }
+          },
+          {
+            "id": "85c2b6daf657813f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/FCS-789501/Fabien.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fabien"
+            }
+          },
+          {
+            "id": "2a5f4be64a913378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/HEIMDALL/Lucien.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lucien"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1fef5a69eac5ccb",
+    "type": "split",
+    "children": [
+      {
+        "id": "226c3922f8785bd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e4450880e7f9ad1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1c6ed5065c153f0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "44f3960c220be55a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "right": {
+    "id": "477d2acc97e314ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f61102f16942cfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79073120c783641a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/Marcille.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Marcille"
+            }
+          },
+          {
+            "id": "3ebd0190182600cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/Marcille.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Marcille"
+            }
+          },
+          {
+            "id": "d00c275af88884c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "68e938eb87923933",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/Marcille.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Marcille"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "669146cd9909a076",
+  "lastOpenFiles": [
+    "Pasted image 20261021104255.png",
+    "Pasted image 20261021104236.png",
+    "Pasted image 20261021104217.png",
+    "Pasted image 20261021104208.png",
+    "Pasted image 20261021104206.png",
+    "Pasted image 20261021104155.png",
+    "Pasted image 20261021104141.png",
+    "Pasted image 20261020155228.png",
+    "Pasted image 20261020155149.png",
+    "Pasted image 20261020155136.png",
+    "Pasted image 20261020155132.png",
+    "Technology/Concepts/Scattering.md",
+    "Technology/Calendars/Universal Calendar.md",
+    "Technology/Calendars/Octosolaric Calendar.md",
+    "Characters/HEIMDALL/Aiden.md",
+    "Characters/HEIMDALL/Katherine.md",
+    "Characters/HEIMDALL/Li.md",
+    "Characters/HEIMDALL/Lucien.md",
+    "Characters/HEIMDALL/Marcille.md",
+    "The Universe/Novico.md",
+    "The Universe/Notes.md",
+    "The Universe/Skariye.md",
+    "Characters/Democratic Republic of Sinak/Diaman.md",
+    "Species/Sentients/Sovereigns.md",
+    "Factions/Haud Empire/1. Main Page.md",
+    "Factions/HEIMDALL/HEIMDALL.md",
+    "Factions/Notes.md",
+    "Factions/Sinak/Democratic Republic of Sinak.md",
+    "Religions/Alithinologism/1. Main Page.md",
+    "Religions/Notes.md",
+    "The Universe/Notable Planets/Sepurnis.md",
+    "The Universe/Notable Planets/Terra.md",
+    "The Universe/Notable Buildings/Great Ingvis Library.md",
+    "Religions/Terrazitonism.md",
+    "Religions/Terrazitonism",
+    "Religions/Menschenmegalism",
+    "Religions/Menschenmegalism.md",
+    "Religions/Alithinologism.md",
+    "Religions/Alithinologism",
+    "Eternal War.base",
+    "Short Stories",
+    "Factions/HEIMDALL",
+    "Stories/Short Stories",
+    "Stories",
+    "Factions/Ingvis",
+    "Factions/Haud Empire",
+    "Factions/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}

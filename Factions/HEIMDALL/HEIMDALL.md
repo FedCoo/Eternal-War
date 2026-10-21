@@ -1,0 +1,4 @@
+**Overview**
+HEIMDALL is a faction demonized by the rest of the universe as heralding the supposed "end times of civilization". It is said that whenever HEIMDALL makes a move, another faction is wiped from the universe. As a result, they are the most feared faction next to Ingvis not due to their power but due to their ability to take down systems of power within the known universe, to the point that several factions would spend fortunes to demonize HEIMDALL as the bringer of the endtimes of the universe.
+
+In reality, HEIMDALL is an anarchist faction led by Lucien, who wishes to take down all systems of power and hierarchy in the universe with an ultimate goal of establishing the end of the concept of hierarchy within the universe as a whole.

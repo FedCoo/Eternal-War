@@ -1,0 +1,28 @@
+**Biography**
+Age: -1
+Gender: Male
+Species: Human (?)
+Affiliations: Ingvis Empire
+Titles: Emperor, Sin
+Family: Unknown
+
+**Appearance**
+At the current time of the story, -ve is an old man dressed in regal emperor robes with a massive golden crown atop his head. He has a weary disposition and has completely metallic limbs, with several tubes constantly sending medicine to his body to keep him alive. He is often seen holding a skull which he likes to ponder upon. Much of this information is unknown to the rest of the universe as he does not allow people to meet him easily, and he is often seen wearing a hood over himself. 
+
+Those who have seen him have described him as a being that simply does not sit right with the rest of the universe, with many claiming that he looks to often "glitch" in and out of the universe, with some instances showing younger versions of himself. 
+
+Attempts to recreate his appearance on paper or some other form have been unsuccessful, with any drawings or holograms of him appearing to be nothing but a dark, humanoid silhouette with a pair of eyes that most people describe as uncanny. Only people who have seen -ve have been able to "see" through that silhouette and identify him.
+
+**Personality**
+Little is known about the emperor of the Ingvis Empire, the largest and most powerful faction in the universe. He is known to predict the movements of several other factions in the universe, allowing him to gain the strategic upper hand in several situations. However, he as a person does not have a good reputation, with his empire being one of the few truly horrible places to live in, and he is rumored to be a genius mired in sin. Yet many in the past have also recalled him to be a kind, honorable, and heroic emperor who had a true vision for the Ingvis Empire, promoting both quality of life, military power, and the arts all at once. Nobody knows what event had sparked him to fall down the path of the depraved.
+
+The truth is that -ve in his old age, realizing the futility of the empire and his attempts to find good in mankind and an end to the war, has resigned himself to self-indulgence. He is known to carry out mass killings within and outside of his faction with no mercy for any of the victims or their families. He has several slaves who are forced to do his bidding or be tortured for his own pleasure. Several of these slaves have also been known to have been forced to bed with him and carry his children, many of which do not survive. He is the embodiment of sin, and yet there is an even deeper spiral to his overall existence...
+
+**Abilities: The Moniker of "Sin"**
+-ve is a living existential paradox, who lives in a state of being backwards in time. This means that the beginning of his existence is him on his deathbed while his existence ends with his birth. Any time his life ends in between that time period, he would reset his existence back to his deathbed. This means that at the beginning of his existence, he has all the knowledge of the future as he is a person from the future in the present, and as time passes he slowly begins to lose that knowledge and become a younger state of himself. 
+
+In the middle of each cycle, when the state of the current universe matches the state of the present -ve, in which after time passes he would begin to know less of the present as he is in a state of the past, he ends his life and resets the cycle, going back to the state of the future where he is on his deathbed. Each time he resets this cycle, his state of existence is shifted, meaning that the state of his birth which is in the future and should have happened in the past, is now in the future and should have happened in the present; whereas the state of his death, which was in the past and should have happened in the future, is now in the present and should have happened even further into the future. As a result, each time he resets his cycles, he knows less of what happened in the past as his state of birth is more akin to the present, while he knows much more of what happens in the future as his state of death is even further in the future while being stuck in the present. 
+
+As a result, he knows everything about what each faction plans to do and plans accordingly, causing him to change the future. Each time he does change the future, his knowledge gets "updated" to know what happens next. This ability is what allows him to build the Ingvis Empire to the level it is, as he simply knows what actions others will take and how he should act accordingly. He is cursed by the dimensional matrix, and is unaffected by the laws of causality and plausibility, being the only existence whom not even Fabien, the sovereign of innovation capable of accessing the 10th dimension, can truly understand or even erase from existence. Beyond this cycle however, he is an ordinary human being with no special combat powers.
+
+This means that those who remember him in the past as a visionary was simply seeing him in the middle of his cycle, right before he chooses to end his own life to reset the cycle. In that state he did not yet glimpse at the futility of existence and did in fact have hope for the empire. The people who know him now as a sinful and indulgent man simply is seeing him at the beginning of a new existential cycle, whereas he knows all to know about the future of the universe and has resigned himself to expanding Ingvis while indulging in the depraved.

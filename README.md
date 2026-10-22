@@ -3,3 +3,4 @@ Goals are to have a grand scale, several factions and stories and lots of other 
 and most importantly to have fun making this!
 
 THIS PROJECT WAS MADE USING OBSIDIAN AND IS BEST VIEWED USING THE OBSIDIAN TEXT EDITOR (or the images wont show up on the pages)
+UPDATE OKAY NVM THE IMAGES WORK ON GITHUB TOO I JS DIDNT KNOW OBSIDIAN USED WIKILINKS

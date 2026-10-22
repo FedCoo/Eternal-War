@@ -2,4 +2,6 @@ Humans are the most advanced species in the universe, having colonized about 80%
 
 Due to the high population, there could be humans with special genetics are put them above others in either physical or mental capabilities. 
 
+All humans in the universe now have some sort of special ability in one way or another as a way of adapting to the universe.
+
 I dont think I need to say much more besides this if you reading this you lowk probably a person so yk how you work bruh.

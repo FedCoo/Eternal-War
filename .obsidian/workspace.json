@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/HEIMDALL/Marcille.md",
+                "file": "Factions/Haud Empire/1. Main Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marcille"
+              "title": "1. Main Page"
             }
           },
           {
@@ -257,10 +257,10 @@
   },
   "active": "669146cd9909a076",
   "lastOpenFiles": [
+    "Characters/HEIMDALL/Marcille.md",
     "Species/Sentients/Sovereigns.md",
     "Species/Sentients/Humans.md",
     "Characters/notes.md",
-    "Characters/HEIMDALL/Marcille.md",
     "Characters/HEIMDALL/Li.md",
     "Characters/HEIMDALL/Lucien.md",
     "Characters/Democratic Republic of Sinak/Diaman.md",
